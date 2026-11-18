@@ -1,7 +1,7 @@
 {
  "format": 1,
- "saved_at": 1794873117.5576499,
- "revision": 3200,
+ "saved_at": 1794911301.3561916,
+ "revision": 3204,
  "title": "SPYRO 2-U",
  "platform": "gba",
  "game": {
@@ -2376,8 +2376,8 @@
   },
   "sub_08014EA0": {
    "vram": 134303392,
-   "best_score": 15,
-   "best_by": "autopilot"
+   "best_score": 5,
+   "best_by": "permuter"
   },
   "sub_08014F1C": {
    "vram": 134303516,
@@ -7266,8 +7266,8 @@
   },
   "sub_0804042C": {
    "vram": 134480940,
-   "best_score": 5,
-   "best_by": "autopilot"
+   "matched_by": "permuter",
+   "readable": false
   },
   "sub_08040480": {
    "vram": 134481024,
